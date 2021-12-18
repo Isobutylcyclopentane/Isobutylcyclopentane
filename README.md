@@ -1,4 +1,4 @@
-![debug_can_be_painful_sometimes](coding_cat_cropped.png)
+<img src="coding_cat_cropped.png" alt="debugging_can_be_painful_sometimes" width="350px"/>
 
 <!--
 **Isobutylcyclopentane/Isobutylcyclopentane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
