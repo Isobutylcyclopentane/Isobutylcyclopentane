@@ -1,4 +1,4 @@
-### Hi there 👋
+![debug_can_be_painful_sometimes](coding_cat_cropped.png)
 
 <!--
 **Isobutylcyclopentane/Isobutylcyclopentane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
